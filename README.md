@@ -1,4 +1,4 @@
-# Datica HIPAA Compliance Policies
+# HIPAA Compliance Policies (based on open-sourced Datica files)
 
 HIPAA compliance is complicated, but it doesn't have to be. Datica helps relieve the technical burden with our HIPAA-compliant cloud computing platform and solutions for healthcare.
 
